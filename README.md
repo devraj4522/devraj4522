@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development and creating exciting projects.
 - 💞️ I’m looking to collaborate on Django, React and other Python based software.
 - 📫 How to reach me ... Email me at rehansingh.4522@gmail.com
-- See my resume <a href="/Dev's%20Resume%20Recent.pdf" class="image fit">here</a>
+- :bookmark_tabs: See my resume <a href="/Dev's%20Resume%20Recent.pdf" class="image fit">here</a>
 <!---
 devraj4522/devraj4522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
